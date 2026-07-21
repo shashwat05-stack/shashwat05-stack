@@ -285,7 +285,7 @@ Building modern web applications, AI-powered tools, backend services, and scalab
 <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/shashwatg_5">
 <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
 </a>
 
