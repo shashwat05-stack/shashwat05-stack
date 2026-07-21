@@ -277,7 +277,7 @@ Building modern web applications, AI-powered tools, backend services, and scalab
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
+<a href="https://www.geeksforgeeks.org/profile/shashwatg7cp5">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
