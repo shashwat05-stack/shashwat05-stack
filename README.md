@@ -305,37 +305,7 @@ Demonstrates product thinking, backend engineering, deployment, and scalable arc
 
 ---
 
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced Data Structures & Algorithms (Java)
-  - Problem Solving on LeetCode
-  - Backend Engineering
-  - System Design Fundamentals
-  - AWS Cloud
-
-Building:
-  - Full Stack MERN Applications
-  - AI Powered Web Applications
-  - Open Source Projects
-
-Exploring:
-  - LLM Applications
-  - Software Architecture
-  - DevOps
-  - Scalable Backend Systems
-
-Open_To:
-  - Software Engineering Internship
-  - Full Stack Developer Internship
-  - AI Engineering Internship
-  - Open Source Collaboration
-```
-
----
-
-# Connect
+# Connect With Me
 
 <p align="center">
 
