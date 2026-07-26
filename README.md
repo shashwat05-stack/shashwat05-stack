@@ -113,19 +113,6 @@ Currently, I am strengthening my foundation in **Data Structures & Algorithms us
 
 ---
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---------|------------|---------|
-| Large Language Models | Intermediate | Building AI-powered applications using OpenAI APIs |
-| Prompt Engineering | Advanced | Structured prompts, reasoning workflows, system prompts |
-| AI Product Development | Intermediate | AI-assisted SaaS applications |
-| Automation | Intermediate | Python Selenium automation |
-| API Integration | Advanced | REST APIs, AI APIs, third-party integrations |
-| AI Application Architecture | Intermediate | Full-stack AI workflows with React & Node.js |
-
----
-
 # Featured Projects
 
 > 🚀 Projects will be continuously updated as I build and publish them.
@@ -198,29 +185,6 @@ Demonstrates product thinking, backend engineering, deployment, and scalable arc
 </details>
 
 ---
-
-# Experience
-
-## Full Stack Developer
-
-**Personal Projects & Hackathons**
-
-**2024 — Present**
-
-Building modern web applications, AI-powered tools, backend services, and scalable software solutions while continuously improving software engineering fundamentals.
-
-### Scope of Work
-
-- Designing scalable full-stack applications
-- REST API development
-- AI integrations using OpenAI APIs
-- Rapid prototyping
-- Cloud deployment
-- Database design
-- Software architecture
-- Backend engineering
-- Frontend development
-- Git-based collaboration
 
 **Skills**
 
