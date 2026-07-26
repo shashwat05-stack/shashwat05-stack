@@ -331,7 +331,7 @@ Demonstrates product thinking, backend engineering, deployment, and scalable arc
 
 <div align="center">
 
-### *"Engineering software that transforms ideas into scalable, intelligent products."*
+### *"Thanks for visiting my profile!"*
 
 </div>
 
