@@ -117,10 +117,29 @@ Currently, I am strengthening my foundation in **Data Structures & Algorithms us
 
 > 🚀 Projects will be continuously updated as I build and publish them.
 
-<details>
+---
 
-<summary><b>Project 01 • Coming Soon</b></summary>
+## 🎬 MovieSphere
 
+> A modern movie and TV show discovery platform powered by the TMDB API.
+
+**Tech Stack:** `React` `Vite` `JavaScript` `CSS` `TMDB API`
+
+🔗 **[Live Demo](https://shashwatstack-moviesphere.netlify.app/)**  
+💻 **[GitHub Repository](YOUR_MOVIESPHERE_REPOSITORY_LINK)**
+
+---
+
+## 🌦️ Weather App
+
+> A responsive weather application that provides real-time weather information using an external API.
+
+**Tech Stack:** `HTML` `CSS` `JavaScript` `Weather API`
+
+🔗 **[Live Demo](YOUR_WEATHER_LIVE_LINK)**  
+💻 **[GitHub Repository](YOUR_WEATHER_REPOSITORY_LINK)**
+
+---
 ### Description
 
 A production-grade software engineering project currently under development.
