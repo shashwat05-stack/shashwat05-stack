@@ -126,7 +126,7 @@ Currently, I am strengthening my foundation in **Data Structures & Algorithms us
 **Tech Stack:** `React` `Vite` `JavaScript` `CSS` `TMDB API`
 
 🔗 **[Live Demo](https://shashwatstack-moviesphere.netlify.app/)**  
-💻 **[GitHub Repository](YOUR_MOVIESPHERE_REPOSITORY_LINK)**
+💻 **[GitHub Repository](https://github.com/shashwat05-stack/Movie-Finder)**
 
 ---
 
@@ -136,8 +136,8 @@ Currently, I am strengthening my foundation in **Data Structures & Algorithms us
 
 **Tech Stack:** `HTML` `CSS` `JavaScript` `Weather API`
 
-🔗 **[Live Demo](YOUR_WEATHER_LIVE_LINK)**  
-💻 **[GitHub Repository](YOUR_WEATHER_REPOSITORY_LINK)**
+🔗 **[Live Demo](https://shashwatstack-weather-app.netlify.app/)**  
+💻 **[GitHub Repository](https://github.com/shashwat05-stack/Weather-App)**
 
 ---
 ### Description
