@@ -6,9 +6,6 @@
 
 <br>
 
-<a href="https://myportfolio-alpha-cyan-19.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-6D28D9?style=for-the-badge"/>
-</a>
 ![](https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge)
 ![](https://img.shields.io/badge/Shri%20Shankaracharya%20Technical%20Campus-Bhilai-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/Graduation-2028-7C3AED?style=for-the-badge)
