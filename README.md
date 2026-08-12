@@ -6,6 +6,9 @@
 
 <br>
 
+<a href="https://myportfolio-alpha-cyan-19.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-6D28D9?style=for-the-badge"/>
+</a>
 ![](https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge)
 ![](https://img.shields.io/badge/Shri%20Shankaracharya%20Technical%20Campus-Bhilai-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/Graduation-2028-7C3AED?style=for-the-badge)
@@ -13,9 +16,9 @@
 
 <br>
 
-<!-- <a href="https://your-portfolio.vercel.app">
+<a href="https://myportfolio-alpha-cyan-19.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a> -->
+</a>
 
 <a href="https://www.linkedin.com/in/shashwat-g-9438a0247/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -327,6 +330,10 @@ Demonstrates product thinking, backend engineering, deployment, and scalable arc
 # Connect With Me
 
 <p align="center">
+
+<a href="https://myportfolio-alpha-cyan-19.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="mailto:shashwatgupta205@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
