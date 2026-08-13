@@ -134,7 +134,7 @@ A full-stack personal finance dashboard for managing income, expenses, budgets, 
 
 **Tech Stack:** `React.js` `JavaScript` `CSS` `Supabase` `PostgreSQL` `Netlify`
 
-🔗 [Live Demo](https://spendwise-personalspendtracker.netlify.app) • 📂 [GitHub Repository](YOUR_GITHUB_REPO_LINK)
+🔗 [Live Demo](https://spendwise-personalspendtracker.netlify.app) • 📂 [GitHub Repository](https://github.com/shashwat05-stack/personal-expense-tracker)
 
 --- 
 
