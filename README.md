@@ -117,7 +117,26 @@ Currently, I am strengthening my foundation in **Data Structures & Algorithms us
 
 > 🚀 Projects will be continuously updated as I build and publish them.
 
----
+--- 
+
+### 💰 SpendWise — Personal Expense Tracker
+
+A full-stack personal finance dashboard for managing income, expenses, budgets, and transactions.
+
+- 🔐 **Authentication** — Secure user signup and login with Supabase
+- 💳 **Transaction Management** — Add, edit, delete, search, and filter transactions
+- 📊 **Analytics** — Spending categories, income vs expenses, and monthly trends
+- 🎯 **Budget Tracking** — Monthly budgets, spending percentage, and remaining balance
+- 💡 **Spending Insights** — Automatic insights based on spending patterns
+- 🌙 **Responsive UI** — Modern light/dark theme with responsive design
+- ☁️ **Cloud Database** — Persistent user-specific data with Supabase PostgreSQL
+- 🚀 **Deployment** — Deployed with Netlify
+
+**Tech Stack:** `React.js` `JavaScript` `CSS` `Supabase` `PostgreSQL` `Netlify`
+
+🔗 [Live Demo](https://spendwise-personalspendtracker.netlify.app) • 📂 [GitHub Repository](YOUR_GITHUB_REPO_LINK)
+
+--- 
 
 ## 🎬 MovieSphere
 
