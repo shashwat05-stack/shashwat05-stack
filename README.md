@@ -180,8 +180,6 @@ Professional engineering-focused project showcasing scalable architecture, maint
 
 <details>
 
-<summary><b>Project 02 • Coming Soon</b></summary>
-
 ### Description
 
 AI-powered application leveraging modern LLM workflows and intelligent automation.
