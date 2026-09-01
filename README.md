@@ -249,36 +249,37 @@ A full-stack personal finance dashboard for managing income, expenses, budgets, 
 
 ---
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=shashwat05-stack&theme=radical&no-frame=true&no-bg=true&margin-w=4"
+    src="https://github-profile-trophy.vercel.app/?username=shashwat05-stack&theme=radical&column=7"
     alt="GitHub Trophies"
   />
 </p>
 
 ---
 
-# 📊 Contribution Activity
+## 📊 Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shashwat05-stack&theme=github-compact&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shashwat05-stack&theme=react-dark"
     alt="Contribution Activity Graph"
   />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/shashwat05-stack/shashwat05-stack/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
+    alt="Contribution Snake"
   />
 </p>
+
 
 ---
 
