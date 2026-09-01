@@ -1,0 +1,29 @@
+name: Generate GitHub Trophies
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: shashwat05-stack
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Trophy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: .
+          keep_files: true
